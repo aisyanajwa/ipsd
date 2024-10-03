@@ -15,7 +15,7 @@ EDA - Exploratory Data Analysis: mengunakan Python Functions
 
 
 ## Proses EDA pada data StudentsPerformance  
-Menggunakan data StudentsPerformance yang didapat dari kaggle https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
+Menggunakan data StudentsPerformance yang didapat dari kaggle: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
 ### 1. Load Data
 Sebelum load data, pastikan telah mengimpor library yang diperlukan.
@@ -213,3 +213,5 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/19e794ff-3870-4718-b642-442c42495f71)
 
 Warna coolwarm tidak digunakan karena tidak ada nilai negatif. Seperti yang bisa dilihat, korelasi antar skor menunjukkan angka yang tinggi, siswa yang memiliki skor tinggi dalam satu subjek cenderung juga memiliki skor tinggi di subjek lainnya.
+
+Kode dapat dilihat di https://github.com/aisyanajwa/ipsd/blob/main/ipsd_tugas2.ipynb
